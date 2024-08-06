@@ -1,4 +1,4 @@
-## EmailPitchgenerator Bot README
+## EmailPitchgenerator Bot 
 
 Welcome to the EmailPitchgenerator Bot! This bot is designed to interact with various APIs and utilize AI to create intelligent agents.
 
