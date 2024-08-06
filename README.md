@@ -34,8 +34,6 @@ Please enter the industry or company you want to target: IT company in Vadodara
 **Bot Output:**
 
 ```python
-[11]
-1s
 generated_queries = query_agent(user_input)
 generated_queries
 ```
@@ -47,7 +45,6 @@ generated_queries
 ```
 
 ```python
-[12]
 search_results = []
 for query in generated_queries:
     print("Searching for...", query)
@@ -62,7 +59,6 @@ Searching for... list of IT companies in Vadodara on LinkedIn or Crunchbase
 ```
 
 ```python
-[ ]
 cold_email = cold_email_agent(user_input, search_results)
 print(cold_email)
 ```
